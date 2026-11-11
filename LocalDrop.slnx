@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LocalDrop.Data/LocalDrop.Data.csproj" />
+  <Project Path="LocalDrop.Domain/LocalDrop.Domain.csproj" />
+  <Project Path="LocalDrop.WebBusiness/LocalDrop.WebBusiness.csproj" />
+  <Project Path="LocalDrop/LocalDrop.csproj" />
+</Solution>
